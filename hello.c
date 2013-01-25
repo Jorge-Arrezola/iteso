@@ -8,3 +8,7 @@ void funcion2(void){
 	printf("Funcion 2\n");
 }
 
+void funcion1(void){
+        printf("Funcion 1\n");
+}
+
